@@ -1,0 +1,144 @@
+/* INICIO - Configurações gerais */
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Oswald:wght@200&display=swap');
+
+body{
+	font-family:'Oswald', sans-serif;
+	background-color: #F0FFFF;
+
+}
+
+
+h1{
+	padding: 10px;
+}
+
+p{
+
+	font-size: 25px;
+	
+}
+
+.clear{
+	clear: both;
+}
+/* FIM - Configurações gerais */
+
+#imagem-perfil{
+	border-radius: 50%;
+	width: 150px;
+	float: left;
+}
+
+
+
+#icon-camera{
+	width: 80px;
+	display: inline-block;
+
+}
+
+.container{
+	display: inline-flex;
+	align-items: center;
+	
+	
+}
+/* INICIO- Barra de navegação */
+
+#nav-bar{
+	display: flex;
+  	justify-content: center;
+  	position: fixed;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+  	background-color: #B0E0E6;	
+}
+
+#nav-bar ul li a{
+	text-decoration: none;
+	
+	margin: 10px 10px;
+	color: cadetblue;
+	font-size: 25px;
+
+
+}
+
+#nav-bar ul li {
+	list-style-type: none;
+	display: inline-block;
+	justify-content: right ;
+}
+
+#nav-bar a:hover{
+	color:#E6E6FA ;
+	background: cadetblue;
+
+}
+
+
+
+/* FIM - Barra de navegação */
+
+/* INICIO - SEÇÃO SOBRE */
+
+#sobre{
+	margin-top: 60px;
+	margin-bottom: 100px;
+	text-align: center;
+	font-size: 20px;
+	line-height: 30px;
+	margin-left: 200px;
+	margin-right: 200px;
+	width: auto;
+}
+
+/* FIM - SEÇÃO SOBRE */
+
+/* INICIO - SEÇÃO TRABALHO */
+
+#trabalhos{
+	text-align: center;
+
+}
+
+.imagem-galeria{
+	
+	padding: 10px;
+	
+	float: left;
+	margin-left: 40px;
+	
+}
+
+.fotos{
+	width: auto;
+	align-items: center;
+}
+
+/* FIM - SEÇÃO TRABALHO */
+
+
+#contato{
+	margin-top: 50px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+.imagem-galeria img {
+	width: 265px;
+
+}
+
+.imagem-galeria:hover img{
+	transform: scale(1.5);
+}
+
+.redes-sociais{
+	padding: 10px;
+	width: 60px;
+}
+

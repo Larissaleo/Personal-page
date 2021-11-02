@@ -10,14 +10,3 @@
 
 
 
-![sobre](C:\Users\laris\Desktop\Desenvolvimento Web\projetos\sabrina\sobre.JPG)
-
-
-
-
-
-
-
-![trabalhos](C:\Users\laris\Desktop\Desenvolvimento Web\projetos\sabrina\trabalhos.JPG)
-
-![contato](C:\Users\laris\Desktop\Desenvolvimento Web\projetos\sabrina\contato.JPG)
